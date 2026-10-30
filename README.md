@@ -23,6 +23,16 @@
 
 <br/>
 
+## `cat about.md`
+
+I build web applications and microservices for **FinTech, HealthTech and Logistics** products, mostly with TypeScript, React, Next.js, Node.js and NestJS. I like working across the whole stack, so a feature can go from the UI to the database and billing with one owner who understands every layer.
+
+On the frontend I care about how pages actually feel: server rendering and static generation with Next.js, Core Web Vitals, and interfaces that stay fast and SEO friendly as they grow. On the backend I design NestJS services and REST/GraphQL APIs, tune PostgreSQL queries and indexes, and integrate payments with Stripe, including subscriptions, webhooks and payouts across several currencies.
+
+I have worked in fintech platforms with large user bases, migrated a big content platform from a legacy CMS to a modern Next.js setup, and built logistics interfaces with maps, tracking tables and filters. Along the way I moved from junior to senior, so I also review code, mentor developers, write technical RFCs and take part in architecture discussions.
+
+<br/>
+
 ## `stack --list`
 
 <p>
@@ -38,33 +48,28 @@
 ## `git log --oneline --author="Andrii"`
 
 ```bash
-a1b2c3d  perf: p95 API 800ms -> 440ms
-4e5f6a7  perf: LCP 4.1s -> 1.6s
-8b9c0d1  perf: Lighthouse 58 -> 92
-2e3f4a5  ci: builds 25 -> 9 min, ~3x faster
-6b7c8d9  ci: deploys 40 -> 12 min
-0a1b2c3  chore: onboarding 2 weeks -> 3 days
-4d5e6f7  test: coverage <50% -> 85%+
-8a9b0c1  feat: Stripe billing, 5 currencies, 3,000+ accounts
-2d3e4f5  perf: JS bundle -40%
+a1b2c3d  perf: tuned PostgreSQL queries and indexes
+4e5f6a7  perf: faster pages, better Core Web Vitals
+8b9c0d1  feat: Stripe subscriptions, webhooks, payouts
+2e3f4a5  ci: faster builds, parallel tests
+6b7c8d9  chore: Docker environments, quick onboarding
+0a1b2c3  test: more coverage, fewer incidents
+4d5e6f7  feat: CMS migration to Next.js + Sanity
+8a9b0c1  refactor: leaner JS bundles
+2d3e4f5  docs: RFCs, reviews, pair programming
 ```
 
 <br/>
 
-## `./benchmarks`
+## `what_i_do --strongest`
 
-```text
-API p95     800ms  ██████████
-             440ms  ██████
-
-LCP          4.1s  ██████████
-             1.6s  ████
-
-CI build    25min  ██████████
-              9min  ████
-
-Onboarding    14d  ██████████
-               3d  ██
+```bash
+> end-to-end features, UI to database
+> frontend performance, SSR / SSG / ISR
+> payments and billing flows
+> API design, REST and GraphQL
+> CI/CD, Docker, release speed
+> testing, code reviews, mentoring
 ```
 
 <br/>
