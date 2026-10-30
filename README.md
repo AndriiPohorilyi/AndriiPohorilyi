@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0f766e&height=130&section=header&text=ANDRII%20POHORILYI&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Senior%20Full%20Stack%20Engineer&descSize=15&descAlignY=68" alt="Andrii Pohorilyi banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,100:c2410c&height=130&section=header&text=ANDRII%20POHORILYI&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Senior%20Full%20Stack%20Engineer&descSize=15&descAlignY=68" alt="Andrii Pohorilyi banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=520&lines=Next.js+%2B+NestJS+%2B+PostgreSQL;fast+pages.+fast+APIs.+fast+CI.;payments+that+don%27t+break" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=520&lines=Next.js+%2B+NestJS+%2B+PostgreSQL;fast+pages.+fast+APIs.+fast+CI.;payments+that+don%27t+break" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-andriipohorilyi-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andriipohorilyi/)
-[![Email](https://img.shields.io/badge/email-contact-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@example.com)
-![Remote](https://img.shields.io/badge/remote-EU-111827?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/linkedin-andriipohorilyi-1c1917?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andriipohorilyi/)
+[![Email](https://img.shields.io/badge/email-contact-1c1917?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@example.com)
+![Remote](https://img.shields.io/badge/remote-EU-1c1917?style=flat-square)
 
 </div>
 
@@ -83,4 +83,4 @@ a1b2c3d  perf: tuned PostgreSQL queries and indexes
 > looking  : Senior Full Stack, Next.js + Node.js
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0f766e&height=60&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,100:c2410c&height=60&section=footer" width="100%" alt="footer" />
