@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=520&lines=Next.js+%2B+NestJS+%2B+PostgreSQL;fast+pages.+fast+APIs.+fast+CI.;payments+that+don%27t+break" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-andriipohorilyi-1c1917?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andriipohorilyi/)
-[![Email](https://img.shields.io/badge/email-contact-1c1917?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/email-contact-1c1917?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:connect.online.box@gmail.com)
 ![Remote](https://img.shields.io/badge/remote-EU-1c1917?style=flat-square)
 
 </div>
@@ -78,7 +78,7 @@ a1b2c3d  perf: tuned PostgreSQL queries and indexes
 
 ```bash
 > linkedin : linkedin.com/in/andriipohorilyi
-> email    : YOUR_EMAIL@example.com
+> email    : connect.online.box@gmail.com
 > status   : open to work, remote (EU)
 > looking  : Senior Full Stack, Next.js + Node.js
 ```
